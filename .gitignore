@@ -1,0 +1,39 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.out
+*.exe
+*.elf
+
+# Precompiled Headers
+*.gch
+
+# Libraries
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.dSYM/
+*.stackdump
+*.core
+
+# Editor/IDE files
+*.swp
+*~
+.vscode/
+.idea/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# CMake and build directories
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
